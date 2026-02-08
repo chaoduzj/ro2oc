@@ -186,6 +186,7 @@ clash订阅:
 - https://raspy-term-ef45.yhdzz1.workers.dev/36ebc17c-d775-473f-8fcc-0220ca125a06/cl
 - https://raw.githubusercontent.com/3356153957/openwrt/efa0e94a9679eccce1344d11ebed1b28d9619b0e/%E8%A6%86%E5%86%99
 - https://raw.githubusercontent.com/4nba/vpn-free-russia/refs/heads/master/clash.yaml
+- https://raw.githubusercontent.com/951mmm/nixconfig/979034a291bda1c4a9189ed8e6434d7686c5120a/services/mihomo/cmy.yaml
 - https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Clash_Movaghat
 - https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Clash_Reality
 - https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
@@ -823,6 +824,7 @@ v2订阅:
 - https://snippets.1412.me/e6677c99-13e3-4788-95a9-1749e847abf0
 - https://sub.azadnetch.workers.dev/AzadNetCH/Clash/main/AzadNet.txt#
 - https://sub.breaknet.eu/ping/b5391170-8f6f-448d-9b01-6234925d33d3
+- https://sub.irys.dpdns.org/auto
 - https://sub.proxygo.org/v2ray.php?key=55ae724be3236301036955a6dc3faee9
 - https://sub.scpnb.top/base64
 - https://sub.yourvpn.me/api/sub/27f0db20-94a1-41dc-a16f-14a45a6dbd34
@@ -997,6 +999,7 @@ v2订阅:
 - 可用流量:101373.0 GB                    https://sub.pusytroller.cf/?url=freenodes
 - 可用流量:101373.0 GB                    https://sub.pusytroller.gq/?url=freenodes
 - 可用流量:1048576.0 GB                    http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b
+- 可用流量:1179.49 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 - 可用流量:146.28 GB                    https://y9dHQgu.doggygosubs.com:8443/api/v1/client/c0ecadf8f247b44010a2b0d5fbfbf792
 - 可用流量:15.0 GB                    https://562dd2da-d6a6-49ca-8ec2-f65fbb4b2e2c.xn--l6qx3lcvp58x.com/api/v1/client/subscribe?token=e3cfcced59c60d67198c8e585c785913
 - 可用流量:155.49 GB                    https://sub.966888.xyz/api/v1/client/subscribe?token=2c53cb842bd6e2366782444aac8cfc16
@@ -1007,15 +1010,18 @@ v2订阅:
 - 可用流量:200.0 GB                    https://9770f00d98e.bigbigwatermelon.com/s?token=4ab651189ba5cda07c16df404a256448#s?token=4ab651189ba5cda07c16df404a256448
 - 可用流量:200.0 GB                    https://9770f00d98e.bigbigwatermelon.com/s?token=74e66d036240a6331addc9fcd21ec201
 - 可用流量:24.87 GB                    https://store.kakocloud.pro/api/v1/client/subscribe?token=864ea20e358408b8a1402390daed8905
-- 可用流量:295137.99 GB                    https://vvbghy.huangshang.online/ntZJbsxkTw3Ucot/4115f84d-3b03-4b03-babf-21b36b2f9c03/#default
-- 可用流量:296237.9 GB                    https://6c00bf1f-a569-4d54-9f71-a13611801867.661.qzz.io/ftOUNtAsaDDsA929iIXtwzt/0c6b96bc-5e3a-4500-8497-6dead1965609/#default
+- 可用流量:295050.81 GB                    https://hhhhhhhhj.191266.xyz/WFyGCV2kJQvjXnxbsFuJG6WRyjLAVp/2bfe58f7-da1d-45df-ab43-7c665b20ee29/#default
+- 可用流量:295060.32 GB                    https://vvbghy.huangshang.online/ntZJbsxkTw3Ucot/4115f84d-3b03-4b03-babf-21b36b2f9c03/#default
+- 可用流量:295867.85 GB                    https://nnnnnmj.huangshang.site/FupqWTkts7sLS5gSw6DEIocjOdkC/5196aae7-1479-4f3c-978b-68e74977b509/#default
 - 可用流量:298.81 GB                    https://tinyurl.com/2b64ty2e
-- 可用流量:299469.32 GB                    https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
+- 可用流量:299438.71 GB                    https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
+- 可用流量:3391.44 GB                    https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
+- 可用流量:3409.66 GB                    http://www.pjw5.top/peng495539229
 - 可用流量:3599.59 GB                    https://msk.vless-balancer.ru/sub/d2VsY29tZV8xNzY3NzA1NTg2XzM2MjIsMTc2NzcwNTU4Nwxl9yt2e0KP
-- 可用流量:451.38 GB                    https://sub.ssr.sh/link/BPYBF2qrh3u8i5VT?clash=1
+- 可用流量:445.83 GB                    https://sub.ssr.sh/link/BPYBF2qrh3u8i5VT?clash=1
 - 可用流量:5.0 GB                    https://api.xn--y0y358c.app/7cNKWc75kz2LfGPM/f7624ef92f3e1b50d4e7b0a398e95f82
 - 可用流量:500.0 GB                    https://yun.dashiba.com/api/v1/client/subscribe?token=c5053a3a08a325c302b499ccf00967b3
-- 可用流量:5731.68 GB                    https://msk.vless-balancer.ru/sub/d2VsY29tZV8xNzcwMTI1MDAzXzEwMDUsMTc3MDEyNTAwNAG7ZZWaF9jt/#
+- 可用流量:5446.53 GB                    https://msk.vless-balancer.ru/sub/d2VsY29tZV8xNzcwMTI1MDAzXzEwMDUsMTc3MDEyNTAwNAG7ZZWaF9jt/#
 - 可用流量:600.0 GB                    https://xbd.iftballs.com/api/v1/client/subscribe?token=06c2f3d8b56b92550b416161f28462aa
 - 可用流量:600.0 GB                    https://xbd.iftballs.com/api/v1/client/subscribe?token=06fc3e8c6cc3eeae1314b8d6a114809c
 - 可用流量:600.0 GB                    https://xbd.iftballs.com/api/v1/client/subscribe?token=3b23d12fe73f4ea1129edf359b447335
@@ -1040,13 +1046,10 @@ v2订阅:
 - 可用流量:666.0 GB                    https://rss.zyfx6.xyz/clash/
 - 可用流量:666.0 GB                    https://sub.zyfx6.xyz/share/file/%E6%B0%B8%E4%B9%85%E8%AE%A2%E9%98%85%40txwl666?token=clash
 - 可用流量:666.0 GB                    https://sub.zyfx6.xyz/share/file/%E6%B0%B8%E4%B9%85%E8%AE%A2%E9%98%85@txwl666?token=clash
-- 可用流量:7455.4 GB                    http://www.pjw5.top/peng495539229
-- 可用流量:7456.42 GB                    https://v3.ganglink.sbs/f5d86f1c-3f4f-4ac9-aa03-64bf34750055
-- 可用流量:7987.85 GB                    https://link.flclash.de/douyin/267d8c89a930b48e5f4bde3922d54184
+- 可用流量:77.68 GB                    https://sub.kukeyun.cc/s/a3343bfac86e9c900d722d0a628fea09#%E9%85%B7%E5%8F%AF%E4%BA%91
 - 可用流量:807.46 GB                    https://yfjc.xyz/api/v1/client/subscribe?token=f9e708c3557447c67ac9a09541032cc9
-- 可用流量:8589934539.14 GB                    https://qybndbviblvt.us-west-1.clawcloudrun.com/api/v1/subscribe?token=u0bt57u81cui26g1vc
+- 可用流量:8589934495.71 GB                    https://qybndbviblvt.us-west-1.clawcloudrun.com/api/v1/subscribe?token=u0bt57u81cui26g1vc
 - 可用流量:8649.11 GB                    https://msk.vless-balancer.ru/sub/d2VsY29tZV8xNzY5Nzg5ODM4XzM5ODcsMTc2OTc4OTgzOQ2pAKWOobXX/#
-- 可用流量:867.84 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
 - 可用流量:95096.93 GB                    https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1
 - 可用流量:95096.93 GB                    https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;amp%3Bflag=clash
 - 可用流量:95096.93 GB                    https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;amp%3Bflag=meta
@@ -1055,11 +1058,11 @@ v2订阅:
 - 可用流量:95096.93 GB                    https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
 - 可用流量:95096.93 GB                    https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=meta
 - 可用流量:9618.25 GB                    https://msk.vless-balancer.ru/sub/d2VsY29tZV8xNzY5MTQyNzQyXzM5NzAsMTc2OTE0Mjc0MwnPV0HQzbaK
-- 可用流量:98.07 GB                    https://sub.kukeyun.cc/s/a3343bfac86e9c900d722d0a628fea09#%E9%85%B7%E5%8F%AF%E4%BA%91
-- 可用流量:99.76 GB                    https://love.lulu.autos/lulu/7500814e0188212bf92e42bad0d69382
+- 可用流量:99.36 GB                    https://love.lulu.autos/lulu/7500814e0188212bf92e42bad0d69382
+- 可用流量:99.6 GB                    https://www.raygo.cc/s/b041359a17f0d8da60b4cad4874d9cea
 - 可用流量:990140.51 GB                    https://youxi.myyfqh.tech/gougoucloud/18ee46bc7cfd23e0386b56f2208f5823
 - 可用流量:9938615.38 GB                    https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-- 可用流量:9999417.0 GB                    https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07&amp;flag=meta
+- 可用流量:9999402.62 GB                    https://xfapp.quickbeevpn.com/api/v1/client/subscribe?token=f29a710191d5672892c2401084c5eb07&amp;flag=meta
 机场订阅:
 - http://101.44.162.141:2096/sub/1k3jjqlzxrn35bge
 - http://106.15.229.237:20031/lll/a141a3fcc0a851a9f28b4b2a4a0879be

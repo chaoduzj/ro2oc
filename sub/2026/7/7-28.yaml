@@ -3,6 +3,7 @@ clash订阅:
 - https://proxypool.dmit.dpdns.org/clash/proxies
 - https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
 - https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
+- https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra.yaml
 - https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 - https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 - https://vlso1.1d.mom/sub?token=e9c6dbc6037b113587afdf64ecc5b57e
@@ -14,19 +15,29 @@ v2订阅:
 - https://app.sublink.works/x/jV9u6Yb
 - https://app.sublink.works/x/oiRx975
 - https://downloads.onelighter.site/api/v1/client/subscribe?token=44f8275bf81b6b4b5623a8a0955c8bc7
+- https://downloads.onelighter.site/api/v1/client/subscribe?token=a98566da3743cc8a3ab8e9d16190c39a
 - https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_full.txt
 - https://xfa9.eu.org/v2ray-07261640.txt
 开心玩耍:
+- 可用流量:1024.0 GB                    https://mifa.world/hysteria
+- 可用流量:1024.0 GB                    https://mifa.world/other
+- 可用流量:1024.0 GB                    https://mifa.world/ss
+- 可用流量:1024.0 GB                    https://mifa.world/trojan
+- 可用流量:1024.0 GB                    https://mifa.world/vless
+- 可用流量:1024.0 GB                    https://mifa.world/vmess
 - 可用流量:1931.49 GB                    https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-- 可用流量:2.85 GB                    https://vpn.zotus.ru/sub.php
-- 可用流量:4781.92 GB                    https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
-- 可用流量:6618028.46 GB                    https://mar.bbc.xx.kg/?b64
-- 可用流量:9999167.78 GB                    https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
-- 可用流量:9999446.91 GB                    https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
+- 可用流量:4750.94 GB                    https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
+- 可用流量:7498357.02 GB                    https://mar.bbc.xx.kg/?b64
 机场订阅:
 - https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
 - https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 - https://mar.bbc.xx.kg/?b64
+- https://mifa.world/hysteria
+- https://mifa.world/other
+- https://mifa.world/ss
+- https://mifa.world/trojan
+- https://mifa.world/vless
+- https://mifa.world/vmess
 - https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f
 - https://vpn.zotus.ru/sub.php
 - https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
